@@ -1,0 +1,6 @@
+cat /proc/swaps
+
+
+pel 3:
+sf 17segons
+ram 2s
